@@ -30,7 +30,6 @@ main img {
     font-family: 'Inter', sans-serif;
 }
 
-/* From Uiverse.io by wilsondesouza */ 
 ul {
   list-style: none;
 }
@@ -125,4 +124,35 @@ ul {
 .example-2 .icon-content a[data-social="youtube"] .filled,
 .example-2 .icon-content a[data-social="youtube"] ~ .tooltip {
   background-color: #ff0000;
+}
+
+#about {
+    color: #f8f8f8;
+    font-size: 40px;
+    text-align: left;
+}
+
+#desc {
+    color:#f8f8f8;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+}
+
+.skills {
+    color:#f8f8f8;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+#tit-skills {
+    color: #f8f8f8;
+    font-size: 40px;
+    text-align: center;
+    justify-content: flex-start;
 }
